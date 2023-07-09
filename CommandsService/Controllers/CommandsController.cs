@@ -40,7 +40,7 @@ namespace CommandsService.Controllers
             return Ok(_mapper.Map<CommandReadDto>(command));
         }
 
-        [HttpGet]
+        [HttpPost]
         public ActionResult<CommandReadDto> CreateCommand(int platformId, CommandCreateDto commandDto)
         {
             if (!_repo.PlatformExists(platformId)) return NotFound();

@@ -178,3 +178,6 @@ D:\backup\repos\Mircoservices\PlatformService\obj\Debug\net6.0\scopedcss\bundle\
 D:\backup\repos\Mircoservices\PlatformService\obj\Debug\net6.0\PlatformService.csproj.CopyComplete
 D:\backup\repos\Mircoservices\PlatformService\obj\Debug\net6.0\PlatformService.genruntimeconfig.cache
 D:\backup\repos\Mircoservices\PlatformService\obj\Debug\net6.0\ref\PlatformService.dll
+D:\backup\repos\Mircoservices\PlatformService\bin\Debug\net6.0\appsettings.Production.json
+D:\backup\repos\Mircoservices\PlatformService\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\backup\repos\Mircoservices\PlatformService\bin\Debug\net6.0\System.Threading.Channels.dll
