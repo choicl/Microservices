@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "SQbWp2Ob3XKZlur/4nuOV4pC1b2IwlOHeNkiRzZv7Ohh+R87Sra6O2P18DQNQ36npFwvGabMxpH1Oob26guF2w==",
+  "dgSpecHash": "f1V5T84pAtD9B+sIlcPhJYiV7TC8di6iKp217TM6BLSO9zMD4OFBQ5PfNsbiI2ZBpg4YZZKFQSzixvXcs9OCkg==",
   "success": true,
   "projectFilePath": "D:\\backup\\repos\\Mircoservices\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\google.protobuf\\3.24.0-rc1\\google.protobuf.3.24.0-rc1.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.net.client\\2.55.0\\grpc.net.client.2.55.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.net.common\\2.55.0\\grpc.net.common.2.55.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.tools\\2.56.0\\grpc.tools.2.56.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

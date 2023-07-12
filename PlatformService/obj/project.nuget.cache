@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "48lNrvwsFBAynKEKhizQbHiZqHe+zV0/vJHXrZRTj/e5QclQqBXabjlBc1ZNWuLRDnz1d4cghhzGqZxB8rwfow==",
+  "dgSpecHash": "LnZYxS+yMAXqTcLRQX9bWqkAge+kq7uHyah6DKUymPOalo3baFe+goqZbxr+DzOP6VAS9+WS3Tb/wers5P54DQ==",
   "success": true,
   "projectFilePath": "D:\\backup\\repos\\Mircoservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,15 @@
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.aspnetcore\\2.47.0\\grpc.aspnetcore.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.aspnetcore.server\\2.47.0\\grpc.aspnetcore.server.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.47.0\\grpc.aspnetcore.server.clientfactory.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.core.api\\2.47.0\\grpc.core.api.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.net.client\\2.47.0\\grpc.net.client.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.net.clientfactory\\2.47.0\\grpc.net.clientfactory.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.net.common\\2.47.0\\grpc.net.common.2.47.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\grpc.tools\\2.47.0\\grpc.tools.2.47.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -27,6 +36,7 @@
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.http\\3.0.3\\microsoft.extensions.http.3.0.3.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
@@ -83,5 +93,16 @@
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\mariia.vasylchenko\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "PlatformService depends on Grpc.AspNetCore (>= 2.46.6) but Grpc.AspNetCore 2.46.6 was not found. An approximate best match of Grpc.AspNetCore 2.47.0 was resolved.",
+      "libraryId": "Grpc.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
